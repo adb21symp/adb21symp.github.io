@@ -1,0 +1,148 @@
+---
+layout: layouts/base.njk
+templateClass: home
+---
+
+<main class="md:p-10 p-5">
+    <div class="container m-auto">
+        <article class=" prose md:prose-xl max-w-full">
+            {{ content | safe }}
+        </article>
+    </div>
+    <div class="container m-auto ">
+        <h2 class="text-3xl pb-5">Short Talk</h2>
+            <div class="m-auto md:grid md:grid-cols-2 md:gap-5 pb-5">
+        {% for talk in talks %}
+            {% if talk.category == "Short Talk" %}
+            
+                <div class="max-w-full md:w-full mb-5 md:mb-0">
+                    <div>
+                        <div class="flex max-w-full md:w-full h-5/6 md:p-5 p-2 border rounded-t-md">
+                            <div class="w-full">
+                                <div class="pl-5">
+                                    <h2><a href="{{ talk.meta.slug_link }}">{{talk.name}}</a>
+                                    </h2>
+                                    <h4 class="text-md font-bold">{{talk.title | titleCase if talk.title }}</h4>
+                                </div>
+                                <div class="pl-5 prose">
+                                    <p class="break-words ">
+                                        <a class="prose no-underline"
+                                            href="{{ talk.meta.slug_link }}">{%
+                                            textsize
+                                            talk.abstract,
+                                            350
+                                            %}</a>
+                                    </p>
+                                    <span class=" relative -top-8 right-30 italic lead">{{talk.lab |
+                                        titleCase if talk.lab
+                                        }}
+                                    </span>
+                                </div>
+                                {# <div class="pl-5">
+                                    <div class="flex items-center">
+                                        <span class="pr-2">{{talk.meta.social.twitter | safe}}</span>
+                                        <span class="px-2">{{talk.meta.social.facebook | safe}}</span>
+
+                                    </div>
+                                </div> #}
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+            {% endfor %}
+            </div>
+            <h2 class="text-3xl pb-5">Talk</h2>
+            
+            <div class="m-auto md:grid md:grid-cols-2 md:gap-5 pb-5">
+            {% for talk in talks %}
+            {% if talk.category == "Talk" %}
+            
+                <div class="max-w-full md:w-full mb-5 md:mb-0">
+                    <div>
+                        <div class="flex max-w-full md:w-full h-5/6 md:p-5 p-2 border rounded-t-md">
+                            <div class="w-full">
+                                <div class="pl-5">
+                                    <h2><a href="{{ talk.meta.slug_link }}">{{talk.name}}</a>
+                                    </h2>
+                                    <h4 class="text-md font-bold">{{talk.title | titleCase if talk.title }}</h4>
+                                </div>
+                                <div class="pl-5 prose">
+                                    <p class="break-words ">
+                                        <a class="prose no-underline"
+                                            href="{{ talk.meta.slug_link }}">{%
+                                            textsize
+                                            talk.abstract,
+                                            350
+                                            %}</a>
+                                    </p>
+                                    <span class=" relative -top-8 right-30 italic lead">{{talk.lab |
+                                        titleCase if talk.lab
+                                        }}
+                                    </span>
+                                </div>
+                                {# <div class="pl-5">
+                                    <div class="flex items-center">
+                                        <span class="pr-2">{{talk.meta.social.twitter | safe}}</span>
+                                        <span class="px-2">{{talk.meta.social.facebook | safe}}</span>
+
+                                    </div>
+                                </div> #}
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+            {% endfor %}
+            </div>
+            
+            <h2 class="text-3xl pb-5">Poster</h2>
+
+            <div class="m-auto md:grid md:grid-cols-2 md:gap-5 pb-5">
+            {% for talk in talks %}
+            {% if talk.category == "Poster" %}
+            
+                <div class="max-w-full md:w-full mb-5 md:mb-0">
+                    <div>
+                        <div class="flex max-w-full md:w-full h-5/6 md:p-5 p-2 border rounded-t-md">
+                            <div class="w-full">
+                                <div class="pl-5">
+                                    <h2><a href="{{ talk.meta.slug_link }}">{{talk.name}}</a>
+                                    </h2>
+                                    <h4 class="text-md font-bold">{{talk.title | titleCase if talk.title }}</h4>
+                                </div>
+                                <div class="pl-5 prose">
+                                    <p class="break-words ">
+                                        <a class="prose no-underline"
+                                            href="{{ talk.meta.slug_link }}">{%
+                                            textsize
+                                            talk.abstract,
+                                            350
+                                            %}</a>
+                                    </p>
+                                    <span class=" relative -top-8 right-30 italic lead">{{talk.lab |
+                                        titleCase if talk.lab
+                                        }}
+                                    </span>
+                                </div>
+                                {# <div class="pl-5">
+                                    <div class="flex items-center">
+                                        <span class="pr-2">{{talk.meta.social.twitter | safe}}</span>
+                                        <span class="px-2">{{talk.meta.social.facebook | safe}}</span>
+
+                                    </div>
+                                </div> #}
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endif %}
+        {% endfor %}
+            </div>
+    </div>
+
+
+</main>
