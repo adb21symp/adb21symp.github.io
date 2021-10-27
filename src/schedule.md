@@ -15,7 +15,7 @@ layout: layouts/page.njk
 | 10.14-10.27   | Maria Lambouras                             | Targeting the mammary stem and progenitor cell population to prevent ER+ breast cancer                                                       |
 | 10.27-10.34   | María Hernaiz García                        | Biomechanics of the Neanderthal anterior dentition                                                                                           |
 | 10.34-10.47   | Abhishek Patil                              | Removing bottlenecks between image acquisition to analysis                                                                                   |
-| 10.47-10.54   | Georgina Stephens                           | Exploring Uncertainty Tolerance in Monash University Medical Students                                                                        |
+| 10.47-10.54   | Qi Fan                           | Deciphering transcriptional control of germ cell development                                                                        |
 |               | **Coffee break**                            |
 | **Session 2** | **Chair: Maria Lambouras**                  |
 | 11.15-11.22   | Rajan Venkatraman                           | Molecular mechanisms of STING responses                                                                                                      |
@@ -30,9 +30,8 @@ layout: layouts/page.njk
 | 13.22-13.35   | Michael Larcombe                            | Dissecting the Regulatory Complexes Controlling Expression of the Pluripotency Factors                                                       |
 | 13.35-13.42   | Monika Mohenska                             | Unraveling the epigenetic landscape of the reprogramming roadmap at single cell resolution                                                   |
 | 13.42-13.55   | Ullhas Kaarthi Moorthi                      | Role of EEA1 in Recycling Endosome biogenesis and Cargo sorting                                                                              |
-| 13.55-14.02   | Qi Fan                                      | Deciphering transcriptional control of germ cell development                                                                                 |
-| 14.02-14.15   | Harrison York                               | Deterministic Early Endosomal Maturation Driven By EEA1 Noise Suppression                                                                    |
-| 14.15-14.28   | Rebecca Cornell                             | Neuronal Control of Mitochondrial Stress Responses and their Impact on Metabolism                                                            |
-| 15.00-17.00   | **Poster session**                          |
+| 13.55-14.08   | Harrison York                                      | Deterministic Early Endosomal Maturation Driven By EEA1 Noise Suppression                                                                                 |                                                                  |
+| 14.08-14.21   | Rebecca Cornell                             | Neuronal Control of Mitochondrial Stress Responses and their Impact on Metabolism                                                            |
+| 14.30-17.00   | **Poster session**                          |
 | 17.00-17.15   | **Prizes**                                  |
 | 17.30-        | **Social event**                            |
