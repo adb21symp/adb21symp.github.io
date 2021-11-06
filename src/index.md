@@ -6,6 +6,6 @@ layout: layouts/home.njk
 
 <div class="md:prose-xl">
 <p class="lead ">
-ADB Postgraduate Symposium 2021
+ADB Postgraduate Symposium 2021 on 12th November
 </p>
 </div>
