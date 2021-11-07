@@ -2,7 +2,7 @@
 layout: layouts/page.njk
 ---
 
-### Schedule
+### Schedule : _12<sup>th</sup> November 2021_
 
 | Time             | Event/Speaker                               | Topic                                                                                                                                         |
 | ---------------- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,6 +50,6 @@ layout: layouts/page.njk
 |                  | Xinran Cheng                                | TIG-2 Modulates Age-Related Mobility Loss and Lifespan in C. elegans                                                                          |
 |                  | Michael Bullen                              | NSUN2 mediates m5C RNA methylation to control gene regulatory functions for maintaining the self-renewal of murine embryonic stem cells state |
 |                  | Xuebi Cai                                   | TOP3A is required for the maintenance of the ovarian follicular reserve and oocyte quality                                                    |
-|                  | Abigail McGovern                            | Keeping on track: Deep learning-enabled tracking of platelets in growing thrombi                                                             |
+|                  | Abigail McGovern                            | Keeping on track: Deep learning-enabled tracking of platelets in growing thrombi                                                              |
 |                  | Jacob Paynter                               | Dissecting Human Trophoblast Differentiation via Genetic Screens                                                                              |
 |                  | Jia Ping Tan                                | Generation of human blastocyst-like structures from somatic reprogramming                                                                     |
