@@ -8,7 +8,7 @@ layout: layouts/page.njk
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | Shemona Rozario    | Exploring professional identity formation in junior doctors and registrars: A focus on anatomical pathology.                                  |
 | Tejasvini Bhuvan   | The spleen is indispensable for the immunosuppressive activity of mesenchymal stromal cells in OVA allergic asthma                            |
-| [Joanne Coyle](/assets/posters/Jonne_Coyle_ADB_2021_Poster.pdf)       | The Use of Min Waves to Understand Intrinsically Disordered Regions Involved in phase Separation                                              |
+| [Joanne Coyle](/assets/posters/Joanne_Coyle_ADB_2021_Poster.pdf)       | The Use of Min Waves to Understand Intrinsically Disordered Regions Involved in phase Separation                                              |
 | Varun Kumar Pandey | Molecular dissection of epigenetic and epitranscriptomic pathways in gene regulation for the maintenance of the embryonic stem cells state    |
 | Di Zheng           | Extravascular MSC treatment induces immunoregulatory innate immune cells to dampen inflammation                                               |
 | Diji Kuriakose     | REGULATION OF UPSTREAM FACTORS OF miR-9/29a/107 IN NEUROGENESIS                                                                               |
