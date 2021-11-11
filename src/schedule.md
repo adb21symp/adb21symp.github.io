@@ -33,6 +33,6 @@ layout: layouts/page.njk
 | 13.42-13.55      | Ullhas Kaarthi Moorthi                      | Role of EEA1 in Recycling Endosome biogenesis and Cargo sorting                                                                               |
 | 13.55-14.08      | Harrison York                               | Deterministic Early Endosomal Maturation Driven By EEA1 Noise Suppression                                                                     |
 | 14.08-14.21      | Rebecca Cornell                             | Neuronal Control of Mitochondrial Stress Responses and their Impact on Metabolism                                                             |
-| 14.30-17.00      | **Poster session**                          |
+| 14.30-17.00      | **Poster session**                          | [https://live.remo.co/e/adb21-phd-symposium](https://live.remo.co/e/adb21-phd-symposium) |
 | 17.00-17.15      | **Prizes**                                  |
 | 17.30-           | **Social event**                            |
