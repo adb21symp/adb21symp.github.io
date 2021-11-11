@@ -18,6 +18,6 @@ layout: layouts/page.njk
 | Michael Bullen     | NSUN2 mediates m5C RNA methylation to control gene regulatory functions for maintaining the self-renewal of murine embryonic stem cells state |
 | [Xuebi Cai](/assets/posters/XueBi_Cai_ADB_2021_Poster.pdf)          | TOP3A is required for the maintenance of the ovarian follicular reserve and oocyte quality                                                    |
 | Abigail McGovern   | Keeping on track: Deep learning-enabled tracking of platelets in growing thrombi                                                              |
-| [Jacob Paynter](/assets/posters/Jacob_Paynter_ADB_2021_Poster.pptx)      | Dissecting Human Trophoblast Differentiation via Genetic Screens                                                                              |
+| [Jacob Paynter](/assets/posters/Jacob_Paynter_ADB_2021_Poster.pdf)      | Dissecting Human Trophoblast Differentiation via Genetic Screens                                                                              |
 | Jia Ping Tan       | Generation of human blastocyst-like structures from somatic reprogramming                                                                     |
 | [Georgina Stephens](/assets/posters/Georgina_Stephens_ADB_2021_Poster.pdf) | Exploring Uncertainty Tolerance in Monash University Medical Students |
